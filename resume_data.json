@@ -1,0 +1,213 @@
+{
+  "header": {
+    "name": "Marc Kochmanski",
+    "phone": "+ (33) 6 50 97 76 67",
+    "email": "marc.kochmanski@outlook.com",
+    "linkedin": "https://www.linkedin.com/in/marcchmura",
+    "city": "35, rue Poussin, 75016 Paris"
+  },
+  "order": [
+    "summary",
+    "education",
+    "work_experience",
+    "projects",
+    "skills",
+    "activities"
+  ],
+  "sections": {
+    "summary": {
+      "title": "SUMMARY",
+      "type": "summary",
+      "include": false,
+      "text": "MSc Finance at ESSEC (FT's #1 in Asia; 740 GMAT) with experience in risk management and quantitative analysis, seeking to kickstart my career at Da Vinci in trading."
+    },
+    "work_experience": {
+      "title": "WORK EXPERIENCE",
+      "type": "experience",
+      "entries": [
+        {
+          "dates": "Apr 26-Present",
+          "duration": "(5 months)",
+          "company": "SOCIETE GENERALE CIB",
+          "location": "Frankfurt, Germany",
+          "role": "Credit Portfolio Manager, Full-Time",
+          "bullets": [
+            "Covered a €10bn credit portfolio of 15+ large-cap German corporates and hedged associated exposure.",
+            "Analysed financial statements providing in-depth corporate credit assessments and assigning credit risk.",
+            "Participated in the €9.9bn acquisition financing of Bio-Techne advising on credit impact and leverage.",
+            "Reviewed €2bn of client exposure across +40 derivative positions (Money Market, FX Swaps, Forwards)."
+          ],
+          "include": true
+        },
+        {
+          "dates": "Sep 25-Apr 26",
+          "duration": "(8 months)",
+          "company": "ESSEC HEDGE FUND (Student association)",
+          "location": "Singapore, Singapore",
+          "role": "Analyst, Equity & Credit Strategies",
+          "include": true,
+          "bullets": [
+            "Achieved an annualised return of 36% with Sharpe of 2.35 on a €8k portfolio across equity derivatives.",
+            "Pitched investment ideas to investment professionals at Balyasny and Citadel.",
+            "Backtested a 5y post-pandemic Dragon Portfolio including commodities for portfolio diversification."
+          ]
+        },
+        {
+          "dates": "Nov 23-Aug 24",
+          "duration": "(9 months)",
+          "company": "NATIXIS CIB",
+          "location": "Paris, France",
+          "role": "Market Risk Analyst, Full-Time",
+          "include": true,
+          "bullets": [
+            "Supervised market risk for non-linear rates and structured products, including autocallable structures.",
+            "Organized a Global Risk Management Committee for 10 Managing Directors across APAC, US and EMEA.",
+            "Developed Python and VBA tools monitoring 50+ risk metrics daily (Greeks, limits, stress shocks).",
+            "Built dashboards to track structured product portfolios and assess the impact of funding rates on risk."
+          ]
+        },
+        {
+          "dates": "Sep 23-Sep 24",
+          "duration": "(12 months)",
+          "company": "GHOST CARS RENTAL",
+          "location": "Paris, France",
+          "role": "Student Entrepreneur",
+          "include": false,
+          "bullets": [
+            "Directed negotiations and acquisitions of 5 cars closing transactions exceeding €200k in Germany.",
+            "Built an engaged social media community of 1,600+ followers through strategic content development and consistent engagement, generating 70k+ views @ghostc.eu."
+          ]
+        },
+        {
+          "dates": "Jan 23-Jun 23",
+          "duration": "(6 months)",
+          "company": "ITDS LONDON",
+          "location": "London, United Kingdom",
+          "role": "Quantitative Analyst, Internship",
+          "include": true,
+          "bullets": [
+            "Developed GARCH model to forecast trading volumes across 100+ cryptocurrencies using volatility prediction.",
+            "Optimised execution logic for arbitrage strategies, reducing log-processing errors by 2% across trading pairs.",
+            "Interacted with clients across blockchain retail and financial services supporting research and trading.",
+            "Monitored trading system logs, escalating and resolving errors reducing order downtime across 20+ exchanges."
+          ]
+        },
+        {
+          "dates": "Jun 22-Aug 22",
+          "duration": "(3 months)",
+          "company": "MAUBOUSSIN",
+          "location": "Paris, France",
+          "role": "Corporate Finance Officer, Internship",
+          "include": false,
+          "bullets": [
+            "Participated in the €50mn acquisition of Guérin Joilleries supporting executive meeting and documentation.",
+            "Managed commission computation streamlining €800k/month of payments outflows.",
+            "Conducted peers’ prices analysis to benchmark Mauboussin's positioning in luxury sector comparables."
+          ]
+        }
+      ],
+      "include": true
+    },
+    "education": {
+      "title": "EDUCATION",
+      "type": "education",
+      "entries": [
+        {
+          "dates": "2024-2026",
+          "note": "Expected grad. Jan 27",
+          "school": "ESSEC BUSINESS SCHOOL",
+          "location": "Singapore, Singapore",
+          "include": true,
+          "lines": [
+            "MSc Finance, Financial Markets",
+            "GMAT 740 (Top 3%) – Hong Kong Study Trip",
+            "Ranked by the Financial Times as #1 Global Master in Finance in Asia in 2025",
+            "Relevant coursework: Advanced Derivatives & Fixed Income, Stochastic Calculus, Machine Learning"
+          ]
+        },
+        {
+          "dates": "2018-2023",
+          "note": "",
+          "school": "IESEG SCHOOL OF MANAGEMENT",
+          "location": "Paris, France",
+          "include": true,
+          "lines": [
+            "Master in Management, Asset and Risk Management",
+            "GPA 4.0 – Exchange semester Pace University, New York",
+            "Relevant coursework: Risk Management, Python, Data Science, Econometrics"
+          ]
+        }
+      ],
+      "include": true
+    },
+    "skills": {
+      "title": "LANGUAGE & TECHNICAL SKILLS",
+      "type": "kv",
+      "rows": [
+        {
+          "label": "Languages:",
+          "content": "French (Native); English (Fluent); Polish (Fluent); Russian (Intermediate)",
+          "include": true
+        },
+        {
+          "label": "Certifications:",
+          "content": "Bloomberg Market Concepts, Akuna Capital Options 101",
+          "include": true
+        },
+        {
+          "label": "Programming:",
+          "content": "Python (Pandas, NumPy, PyTorch, Streamlit, Fast API), SQL, Unix",
+          "include": true
+        },
+        {
+          "label": "Modeling:",
+          "content": "DCF, LBO, Peers, credit ratings",
+          "include": false
+        },
+        {
+          "label": "IT skills:",
+          "content": "Bloomberg, Power BI, AWS, Git, Excel",
+          "include": true
+        }
+      ],
+      "include": true
+    },
+    "projects": {
+      "title": "PROJECTS",
+      "type": "projects",
+      "include": false,
+      "entries": [
+        {
+          "name": "EM Fundamentals and Rates Matrix",
+          "date": "June 2026",
+          "include": true,
+          "bullets": [
+            "Bullet point 1"
+          ]
+        }
+      ]
+    },
+    "activities": {
+      "title": "ACTIVITIES & INTERESTS",
+      "type": "bullets",
+      "items": [
+        {
+          "include": true,
+          "text": "Guest-Participant, Token 2049 Singapore (2024)",
+          "detail": "Also attended Singapore FinTech Festival (2025) as a guest-participant."
+        },
+        {
+          "include": true,
+          "text": "Muay Thai – Study Trip to Bang Tao Training Camp, Phuket, Thailand (2025)",
+          "detail": ""
+        },
+        {
+          "include": true,
+          "text": "Chess – (1450 Elo) Rapid, (1800 Elo) Bullet",
+          "detail": ""
+        }
+      ],
+      "include": true
+    }
+  }
+}
