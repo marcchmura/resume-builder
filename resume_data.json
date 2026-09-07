@@ -4,7 +4,7 @@
     "phone": "+ (33) 6 50 97 76 67",
     "email": "marc.kochmanski@outlook.com",
     "linkedin": "https://www.linkedin.com/in/marcchmura",
-    "city": "35, rue Poussin, 75016 Paris"
+    "city": "Taunusstraße 33-35, 60329 Frankfurt am Main"
   },
   "order": [
     "summary",
@@ -18,24 +18,24 @@
     "summary": {
       "title": "SUMMARY",
       "type": "summary",
-      "include": false,
-      "text": "MSc Finance at ESSEC (FT's #1 in Asia; 740 GMAT) with experience in risk management and quantitative analysis, seeking to kickstart my career at Da Vinci in trading."
+      "include": true,
+      "text": "MSc Finance Graduate, Quantitative background"
     },
     "work_experience": {
       "title": "WORK EXPERIENCE",
       "type": "experience",
       "entries": [
         {
-          "dates": "Apr 26-Present",
-          "duration": "(5 months)",
+          "dates": "Apr-Sep 26",
+          "duration": "(6 months)",
           "company": "SOCIETE GENERALE CIB",
           "location": "Frankfurt, Germany",
-          "role": "Credit Portfolio Manager, Full-Time",
+          "role": "Corporate Credit Analyst",
           "bullets": [
-            "Covered a €10bn credit portfolio of 15+ large-cap German corporates and hedged associated exposure.",
-            "Analysed financial statements providing in-depth corporate credit assessments and assigning credit risk.",
-            "Participated in the €9.9bn acquisition financing of Bio-Techne advising on credit impact and leverage.",
-            "Reviewed €2bn of client exposure across +40 derivative positions (Money Market, FX Swaps, Forwards)."
+            "Assisted in a €10bn credit portfolio of 15+ large-cap German corporates accross diversified financial products.",
+            "Analysed financial statements providing in-depth corporate credit assessments and assigning credit scores.",
+            "Simulated a €9.9bn acquisition financing of Bio-Techne advising on credit impact and leverage.",
+            "Reviewed client exposure across +40 derivatives positions including Equity, FX Swaps, Forwards."
           ],
           "include": true
         },
@@ -44,12 +44,13 @@
           "duration": "(8 months)",
           "company": "ESSEC HEDGE FUND (Student association)",
           "location": "Singapore, Singapore",
-          "role": "Analyst, Equity & Credit Strategies",
+          "role": "Quantitative Research Analyst",
           "include": true,
           "bullets": [
-            "Achieved an annualised return of 36% with Sharpe of 2.35 on a €8k portfolio across equity derivatives.",
-            "Pitched investment ideas to investment professionals at Balyasny and Citadel.",
-            "Backtested a 5y post-pandemic Dragon Portfolio including commodities for portfolio diversification."
+            "Allocated simulated portfolios across Equity, Credit and Macro for a student-run investment fund.",
+            "Backtested +10 tail-resilient strategies in Python across +5 years of data including the Dragon Portfolio.",
+            "Pitched investment ideas to buy-side professionals at Balyasny and Citadel.",
+            "xx"
           ]
         },
         {
@@ -57,10 +58,9 @@
           "duration": "(9 months)",
           "company": "NATIXIS CIB",
           "location": "Paris, France",
-          "role": "Market Risk Analyst, Full-Time",
-          "include": true,
+          "role": "Market Risk Analyst, CDD",
+          "include": false,
           "bullets": [
-            "Supervised market risk for non-linear rates and structured products, including autocallable structures.",
             "Organized a Global Risk Management Committee for 10 Managing Directors across APAC, US and EMEA.",
             "Developed Python and VBA tools monitoring 50+ risk metrics daily (Greeks, limits, stress shocks).",
             "Built dashboards to track structured product portfolios and assess the impact of funding rates on risk."
@@ -86,10 +86,10 @@
           "role": "Quantitative Analyst, Internship",
           "include": true,
           "bullets": [
-            "Developed GARCH model to forecast trading volumes across 100+ cryptocurrencies using volatility prediction.",
-            "Optimised execution logic for arbitrage strategies, reducing log-processing errors by 2% across trading pairs.",
-            "Interacted with clients across blockchain retail and financial services supporting research and trading.",
-            "Monitored trading system logs, escalating and resolving errors reducing order downtime across 20+ exchanges."
+            "Monitored +1m rows of daily system logs, escalating and resolving errors to various trading exchanges.",
+            "Modeled crypto volatility with GARCH across 20+ pairs, stress-testing forecasts through different regimes.",
+            "Supported the quant team research workflow across data collection, cleaning, and validation.",
+            "xx"
           ]
         },
         {
@@ -97,11 +97,12 @@
           "duration": "(3 months)",
           "company": "MAUBOUSSIN",
           "location": "Paris, France",
-          "role": "Corporate Finance Officer, Internship",
+          "role": "CFO Assistant, Internship",
           "include": false,
           "bullets": [
             "Participated in the €50mn acquisition of Guérin Joilleries supporting executive meeting and documentation.",
             "Managed commission computation streamlining €800k/month of payments outflows.",
+            "xxx",
             "Conducted peers’ prices analysis to benchmark Mauboussin's positioning in luxury sector comparables."
           ]
         }
@@ -123,7 +124,8 @@
             "GMAT 740 (Top 3%) – Hong Kong Study Trip",
             "Ranked by the Financial Times as #1 Global Master in Finance in Asia in 2025",
             "Relevant coursework: Advanced Derivatives & Fixed Income, Stochastic Calculus, Machine Learning"
-          ]
+          ],
+          "note_include": true
         },
         {
           "dates": "2018-2023",
@@ -134,7 +136,17 @@
           "lines": [
             "Master in Management, Asset and Risk Management",
             "GPA 4.0 – Exchange semester Pace University, New York",
-            "Relevant coursework: Risk Management, Python, Data Science, Econometrics"
+            "Relevant coursework: Portfolio Management, Risk Management, Python, Econometrics"
+          ]
+        },
+        {
+          "dates": "2018",
+          "note": "",
+          "school": "LYCEE FIDES",
+          "location": "Paris, France",
+          "include": false,
+          "lines": [
+            "Baccalauréat Economique et Scientifique, Spé Maths"
           ]
         }
       ],
@@ -146,7 +158,7 @@
       "rows": [
         {
           "label": "Languages:",
-          "content": "French (Native); English (Fluent); Polish (Fluent); Russian (Intermediate)",
+          "content": "French (Native); English (Fluent); Polish (Fluent)",
           "include": true
         },
         {
@@ -156,7 +168,7 @@
         },
         {
           "label": "Programming:",
-          "content": "Python (Pandas, NumPy, PyTorch, Streamlit, Fast API), SQL, Unix",
+          "content": "Python (Pandas, NumPy, Streamlit, API), SQL, Unix",
           "include": true
         },
         {
@@ -166,7 +178,7 @@
         },
         {
           "label": "IT skills:",
-          "content": "Bloomberg, Power BI, AWS, Git, Excel",
+          "content": "Bloomberg, AWS, Git, Excel",
           "include": true
         }
       ],
