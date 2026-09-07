@@ -19,7 +19,7 @@
       "title": "SUMMARY",
       "type": "summary",
       "include": true,
-      "text": "MSc Finance Graduate, Quantitative background"
+      "text": "MSc Finance incoming graduate (January 2027) with a quantitative background and international experience across credit research, portfolio management, and quant analysis. Competitive Kitesurfer."
     },
     "work_experience": {
       "title": "WORK EXPERIENCE",
@@ -32,10 +32,10 @@
           "location": "Frankfurt, Germany",
           "role": "Corporate Credit Analyst",
           "bullets": [
-            "Assisted in a €10bn credit portfolio of 15+ large-cap German corporates accross diversified financial products.",
-            "Analysed financial statements providing in-depth corporate credit assessments and assigning credit scores.",
-            "Simulated a €9.9bn acquisition financing of Bio-Techne advising on credit impact and leverage.",
-            "Reviewed client exposure across +40 derivatives positions including Equity, FX Swaps, Forwards."
+            "Covered a €2bn credit portfolio of 10 large-cap corporates including market lines and credit exposures.",
+            "Advised on a €9.9bn acquisition of Bio-Techne, modeling pro forma financials, leverage and synergies.",
+            "Analysed corporate financials and sectorial position assessing their credit score",
+            "Ranked 40th out of 800 participants in Société Générale's SG Markets World Cup prediction tournament."
           ],
           "include": true
         },
@@ -47,10 +47,10 @@
           "role": "Quantitative Research Analyst",
           "include": true,
           "bullets": [
-            "Allocated simulated portfolios across Equity, Credit and Macro for a student-run investment fund.",
-            "Backtested +10 tail-resilient strategies in Python across +5 years of data including the Dragon Portfolio.",
-            "Pitched investment ideas to buy-side professionals at Balyasny and Citadel.",
-            "xx"
+            "Managed a multi-asset portfolio across Equity, Macro, and Commodities, executing +50 orders on the markets.",
+            "Pitched a stock investment to professionals from IMC Trading and Balyasny Asset Management.",
+            "Published an updated backtest of Artemis Capital's Dragon Portfolio.",
+            "Visited QRT's Singapore trading floor, personally invited as a trade support candidate."
           ]
         },
         {
@@ -86,10 +86,10 @@
           "role": "Quantitative Analyst, Internship",
           "include": true,
           "bullets": [
-            "Monitored +1m rows of daily system logs, escalating and resolving errors to various trading exchanges.",
-            "Modeled crypto volatility with GARCH across 20+ pairs, stress-testing forecasts through different regimes.",
-            "Supported the quant team research workflow across data collection, cleaning, and validation.",
-            "xx"
+            "Built a 100+ year monthly U.S. inflation dataset by aggregating and cleaning multi-source indicators in Python.",
+            "Analysed +1m rows of daily logs entries, identifying and escalating model anomalies to traders.",
+            "Gained exposure to Systematic trading strategies across momentum and market-making.",
+            "Participated in the 2023 J.P. Morgan Corporate Challenge strengthening collaboration and team integration."
           ]
         },
         {
@@ -134,9 +134,9 @@
           "location": "Paris, France",
           "include": true,
           "lines": [
-            "Master in Management, Asset and Risk Management",
+            "Master in Management, Programme Grande Ecole",
             "GPA 4.0 – Exchange semester Pace University, New York",
-            "Relevant coursework: Portfolio Management, Risk Management, Python, Econometrics"
+            "Relevant coursework: Portfolio Theory, Risk Management, Python, Econometrics"
           ]
         },
         {
