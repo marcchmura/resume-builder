@@ -1,9 +1,9 @@
 {
   "header": {
     "name": "Marc Kochmanski",
-    "phone": "+ (33) 6 50 97 76 67",
+    "phone": "+33 (0) 6 50 97 76 67",
     "email": "marc.kochmanski@outlook.com",
-    "linkedin": "https://www.linkedin.com/in/marcchmura",
+    "linkedin": "https://www.linkedin.com/in/marckochmanski",
     "city": "Taunusstraße 33-35, 60329 Frankfurt am Main"
   },
   "order": [
@@ -19,22 +19,22 @@
       "title": "SUMMARY",
       "type": "summary",
       "include": true,
-      "text": "MSc Finance incoming graduate (January 2027) with a quantitative background and international experience across credit research, portfolio management, and quant analysis. Competitive Kitesurfer."
+      "text": "Incoming MSc Finance graduate with a quantitative background and investment banking experience. Former expatriate in Asia bringing an international exposure and strong adaptability. Passionate kitesurfer."
     },
     "work_experience": {
       "title": "WORK EXPERIENCE",
       "type": "experience",
       "entries": [
         {
-          "dates": "Apr-Sep 26",
+          "dates": "Apr 26-Sep 26",
           "duration": "(6 months)",
           "company": "SOCIETE GENERALE CIB",
           "location": "Frankfurt, Germany",
           "role": "Corporate Credit Analyst",
           "bullets": [
-            "Covered a €2bn credit portfolio of 10 large-cap corporates including market lines and credit exposures.",
-            "Advised on a €9.9bn acquisition of Bio-Techne, modeling pro forma financials, leverage and synergies.",
-            "Analysed corporate financials and sectorial position assessing their credit score",
+            "Covered a EUR 2bn credit portfolio of 10 large-cap corporates including market lines and credit exposures.",
+            "Advised on a EUR 9.9bn acquisition of Bio-Techne, modeling pro forma financials, leverage and synergies.",
+            "Analysed 8+ private groups, developing independent research from limited disclosure and no public rating.",
             "Ranked 40th out of 800 participants in Société Générale's SG Markets World Cup prediction tournament."
           ],
           "include": true
@@ -47,7 +47,7 @@
           "role": "Quantitative Research Analyst",
           "include": true,
           "bullets": [
-            "Managed a multi-asset portfolio across Equity, Macro, and Commodities, executing +50 orders on the markets.",
+            "Managed a multi-asset portfolio across Equity, Macro, and Commodities, executing +50 orders in the markets.",
             "Pitched a stock investment to professionals from IMC Trading and Balyasny Asset Management.",
             "Published an updated backtest of Artemis Capital's Dragon Portfolio.",
             "Visited QRT's Singapore trading floor, personally invited as a trade support candidate."
@@ -88,7 +88,7 @@
           "bullets": [
             "Built a 100+ year monthly U.S. inflation dataset by aggregating and cleaning multi-source indicators in Python.",
             "Analysed +1m rows of daily logs entries, identifying and escalating model anomalies to traders.",
-            "Gained exposure to Systematic trading strategies across momentum and market-making.",
+            "Gained exposure to inventory-based P&L attribution on a market-making desk.",
             "Participated in the 2023 J.P. Morgan Corporate Challenge strengthening collaboration and team integration."
           ]
         },
@@ -135,7 +135,7 @@
           "include": true,
           "lines": [
             "Master in Management, Programme Grande Ecole",
-            "GPA 4.0 – Exchange semester Pace University, New York",
+            "GPA 14.87/20 - Exchange semester at Pace University, New York",
             "Relevant coursework: Portfolio Theory, Risk Management, Python, Econometrics"
           ]
         },
@@ -163,12 +163,12 @@
         },
         {
           "label": "Certifications:",
-          "content": "Bloomberg Market Concepts, Akuna Capital Options 101",
+          "content": "Bloomberg Market Concepts, Akuna Capital Options 101, Bloomberg Spreadsheet Analysis",
           "include": true
         },
         {
           "label": "Programming:",
-          "content": "Python (Pandas, NumPy, Streamlit, API), SQL, Unix",
+          "content": "Python (Pandas, NumPy, Streamlit), SQL, BQL, Unix",
           "include": true
         },
         {
@@ -178,7 +178,7 @@
         },
         {
           "label": "IT skills:",
-          "content": "Bloomberg, AWS, Git, Excel",
+          "content": "Microsoft Office, Bloomberg, Excel, Git",
           "include": true
         }
       ],
@@ -205,13 +205,13 @@
       "items": [
         {
           "include": true,
-          "text": "Guest-Participant, Token 2049 Singapore (2024)",
-          "detail": "Also attended Singapore FinTech Festival (2025) as a guest-participant."
+          "text": "Kitesurf (8+ years)",
+          "detail": "Trip to Bali, Indonesia (2025) and Dakhla, Morocco (2026)"
         },
         {
           "include": true,
-          "text": "Muay Thai – Study Trip to Bang Tao Training Camp, Phuket, Thailand (2025)",
-          "detail": ""
+          "text": "Muay Thai (3+ years)",
+          "detail": "Study Trip to Bang Tao Training Camp, Phuket, Thailand (2025)"
         },
         {
           "include": true,
