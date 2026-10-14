@@ -53,7 +53,7 @@ CONFIG = {
         "summary": 15.0,
     },
     # gap: last content line top -> NEXT section rule
-    "section_gap": 25.0,
+    "section_gap": 23.0,
 
     # ---- columns -----------------------------------------------------------
     "date_x": 40.0,            # dates / duration / small note column
@@ -230,9 +230,12 @@ class ResumeRenderer:
             if not first:
                 top += cfg["proj_entry_gap"] - cfg["proj_wrap_step"]
             first = False
-            # header line: date (left column, continues Experience/Education) | name
-            self._text(c, cfg["date_x"], top, e["date"], F_ITAL, 10)
+            # header line: date (left column, continues Experience/Education) | name | location (optional, right)
+            self._text(c, cfg["date_x"], top, e["date"], F_REG, 10)
             self._text(c, cfg["col2_x"], top, e["name"], F_BOLD, 10)
+            if e.get("location"):
+                self._text(c, cfg["right_x"], top, e["location"], F_REG, 10,
+                           align="right")
             # bullets
             top += cfg["proj_header_to_bullet"]
             avail = cfg["right_x"] - cfg["bullet_text_x"]
